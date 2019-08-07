@@ -31,6 +31,11 @@ a:hover {
     color: #4aaaa5;
 }
 
+.active {
+    color: #4aaaa5 !important;
+    font-weight: bolder;
+}
+
 hr {
     border-bottom: 1px solid white;
 }
