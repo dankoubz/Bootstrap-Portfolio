@@ -13,7 +13,8 @@ body {
     background-color: rgba(26, 26, 26, .75) !important;
 }
 
-.bg-info {
+.bg-info,
+.btn-info {
     background-color: #4aaaa5 !important;
 }
 
