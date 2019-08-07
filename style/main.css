@@ -1,0 +1,36 @@
+/* Background */
+
+body {
+    background-image: url(../src/imgs/memphis-mini-dark.png);
+    background-repeat: repeat;
+    background-position: center;
+}
+
+
+/* Colours */
+
+.bg-dark {
+    background-color: rgba(26, 26, 26, .75) !important;
+}
+
+.bg-info {
+    background-color: #4aaaa5 !important;
+}
+
+.text-info {
+    color: #4aaaa5 !important;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    text-decoration: none;
+    color: #4aaaa5;
+}
+
+hr {
+    border-bottom: 1px solid white;
+}
